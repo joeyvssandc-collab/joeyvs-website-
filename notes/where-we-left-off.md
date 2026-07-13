@@ -34,6 +34,14 @@ Result: ~30 minutes of scheduling covers the whole week of posts.
 - A series of planner PDF books (already selling in the store)
 - **3 coloring books, 35 pages each, READY TO GO** — not yet listed (as of this session)
 
+## Standing goal
+- **Produce at least ONE new coloring book per week** for the series, ongoing.
+  - Joey has **70 prompts ready in a DeepSeek chat** (≈ two 35-page books) — he will
+    paste them here to be saved to `notes/coloring-book-prompts.md` and formatted
+    for Ideogram.
+  - Weekly rhythm: generate pages (Ideogram free credits, backup bing.com/create) →
+    assemble PDF → write listing (`listing` skill) → promo reels (`reel` skill).
+
 ## TO-DO list for next session (Joey was tired, nothing started yet)
 1. **Write Etsy listings for the 3 coloring books** — need their names/themes from
    Joey, then use the `listing` skill for each (title, 13 tags, description).
